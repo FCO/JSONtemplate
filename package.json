@@ -1,0 +1,23 @@
+{
+  "name": "json_template",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FCO/JSONtemplate.git"
+  },
+  "author": "Fernando Correa de Oliveira <fco@cpan.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FCO/JSONtemplate/issues"
+  },
+  "homepage": "https://github.com/FCO/JSONtemplate",
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  }
+}
